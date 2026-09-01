@@ -1,0 +1,24 @@
+{
+  "name": "Inventory Product Sale V5.7.6.1",
+  "short_name": "Inventory Sale",
+  "start_url": "./index.html?v=5761",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "description": "Inventory Product Sale with supplier assignment and PWA icon fix.",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
